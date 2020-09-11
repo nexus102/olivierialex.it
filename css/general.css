@@ -1,0 +1,8 @@
+.navbar img{
+  max-width: 150px;
+}
+
+.carousel-inner{
+  max-height: 90vh;
+  overflow-y: hidden;
+}
